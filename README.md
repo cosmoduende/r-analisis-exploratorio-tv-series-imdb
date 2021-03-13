@@ -5,3 +5,6 @@ Análisis y visualización de Datos con R de algunas de las tv series más popul
 
 ### *English version*
 Data analysis and visualization with R of some of the most popular tv series (especially among geek culture): Black Mirror, Westworld, Game of Thrones, Rick and Morty, and Stranger Things. Data extracted from IMDb by Web Scraping. Medium article: https://medium.com/@cosmoduende/data-analysis-and-visualization-of-scraped-data-from-imdb-with-r-5d75e8191fc0
+
+#### *Project preview*
+https://www.youtube.com/watch?v=VDFpx5gwGm4
